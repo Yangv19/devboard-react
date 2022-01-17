@@ -1,4 +1,3 @@
-import React from "react"
 import { Route, Switch } from "react-router-dom";
 import EditProfile from "../auth/EditProfile";
 import NotFound from "../basic/NotFound";

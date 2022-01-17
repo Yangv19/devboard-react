@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import { Fragment } from "react";
 import Footer from "../layout/Footer";
 
 const NotFound = () : JSX.Element => {

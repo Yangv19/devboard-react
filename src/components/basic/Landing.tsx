@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import { Fragment } from "react";
 import { RootState } from "../../types/reducers";
 import { connect, ConnectedProps } from "react-redux";
 import { Link } from "react-router-dom";

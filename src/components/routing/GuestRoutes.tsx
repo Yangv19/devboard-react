@@ -1,4 +1,3 @@
-import React from "react"
 import { Route, Switch } from "react-router-dom";
 import NotAuthorized from "../basic/NotAuthorized";
 import NotFound from "../basic/NotFound";

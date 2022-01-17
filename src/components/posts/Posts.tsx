@@ -1,4 +1,4 @@
-import React, { useEffect, Fragment } from "react";
+import { useEffect, Fragment } from "react";
 import { RootState } from "../../types/reducers";
 import { connect, ConnectedProps } from "react-redux";
 import { getPosts } from "../../actions/post";
